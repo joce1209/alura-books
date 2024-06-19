@@ -4,3 +4,18 @@
     background-image: url("../img/me");
     display: inline-block;
 }
+.cabecalho{
+    background-color: var();
+    display: flex;
+    justify-content: space-between;
+
+}
+.container{
+    display: flex;
+    align-items: center;
+
+}
+.container__imagem{
+    padding: 1em;
+
+}
