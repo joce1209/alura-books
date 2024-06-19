@@ -3,6 +3,8 @@
     height: 24px;
     background-image: url("../img/me");
     display: inline-block;
+    background-repeat: no-repeat;
+    background-position: center;
 }
 .cabecalho{
     background-color: var();
@@ -17,5 +19,4 @@
 }
 .container__imagem{
     padding: 1em;
-
 }
