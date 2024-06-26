@@ -7,7 +7,7 @@
     background-position: center;
 }
 .cabecalho{
-    background-color: var();
+    background-color: var(--branco);
     display: flex;
     justify-content: space-between;
 
@@ -17,6 +17,6 @@
     align-items: center;
 
 }
-.container__imagem{
+.cabecalho__imagem{
     padding: 1em;
 }
